@@ -230,11 +230,17 @@ nav ul li a:hover {
 }
 
 .all-btn a:hover {
+<<<<<<< HEAD
     color: #000;
 }
 
 
 
+=======
+    color: var(--color-3);
+}
+
+>>>>>>> 41c55ca7af49b7aad94404e876df69a30fe73d23
 .hero-main .slick-next:before {
     content: '\F285';
     font-family: 'bootstrap-icons';
@@ -294,5 +300,5 @@ nav ul li a:hover {
 
 .about {
     width: 100%;
-    float: left`;
+    float: left;
 }
