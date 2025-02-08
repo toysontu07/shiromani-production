@@ -229,6 +229,12 @@ nav ul li a:hover {
 
 }
 
+.all-btn a:hover {
+    color: #000;
+}
+
+
+
 .hero-main .slick-next:before {
     content: '\F285';
     font-family: 'bootstrap-icons';
